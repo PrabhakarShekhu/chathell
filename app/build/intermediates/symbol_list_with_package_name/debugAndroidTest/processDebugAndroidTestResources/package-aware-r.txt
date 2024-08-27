@@ -1,0 +1,3 @@
+com.chathell.chathell.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
